@@ -2,4 +2,18 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-df = pd.read_csv('data/WA_Fn-UseC_-Telco-Customer-Churn.csv')
+df = pd.read_csv('data/Telco-Customer-Churn.csv')
+df.head()
+df.shape
+
+#Check Missing values
+df.isna().sum()
+
+# Check Duplicates
+df.duplicated().sum()
+
+# Check Null and Dtypes
+df.info()
+
+# Checking the number of unique values of each column
+df.nunique()
