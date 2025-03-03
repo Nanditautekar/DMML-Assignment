@@ -22,3 +22,12 @@ author_email='Shinchan02022000@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 )
+from setuptools import setup, find_packages
+
+from setuptools import setup, find_packages
+
+setup(
+    name="src",
+    version="0.1",
+    packages=find_packages(),
+)
