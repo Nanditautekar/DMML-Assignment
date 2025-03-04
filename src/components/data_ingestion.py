@@ -1,11 +1,13 @@
 import sys
 import os
+import pandas as pd
 
 # Add parent directory to sys.path
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 
 from src.logger import logging
 from src.exception import CustomException
+
 
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
