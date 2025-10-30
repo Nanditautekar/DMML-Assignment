@@ -1,0 +1,39 @@
+
+N
+.
+__dummy"
+__dummy_idJcustomer_churn_features
+Ð×Ì¾ÐÙÔ´ö„Ï¾ˆÞƒå1"$f7ba0cfc-129a-46f2-bff1-9df1e78e5d2d*ö„Ï¾ØÐàå2â
+Á
+customer_churn_features_viewcustomer_churn_features
+customerID"
+
+customerID"
+
+gender"
+SeniorCitizen"
+Partner"
+
+Dependents"
+
+tenure"
+PhoneService"
+MultipleLines"
+InternetService"
+OnlineSecurity"
+OnlineBackup"
+DeviceProtection"
+TechSupport"
+StreamingTV"
+StreamingMovies"
+Contract"
+PaperlessBilling"
+PaymentMethod"
+MonthlyCharges"
+TotalCharges"	
+Churn2€£:®event_timestampZ20../Dataset/Processed Data/processed_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢0../Dataset/Processed Data/processed_data.parquet@RVFeature view for customer churn including demographic and usage features. Version: 1.0
+Ð×Ì¾ˆŒÌ´Ð×Ì¾ˆŒÌ´bÈevent_timestampZ20../Dataset/Processed Data/processed_data.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢0../Dataset/Processed Data/processed_data.parquetªcustomer_churn_featuresz?
+customer_churn_features$2e4ccbcf-d7c3-43a2-b8db-e036e46d650cŠ9
+
+customer_churn_features
+Ð×Ì¾ÈèÂ´Ð×Ì¾ÈèÂ´

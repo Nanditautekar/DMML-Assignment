@@ -1,0 +1,10 @@
+2025-03-14 21:00:28,082 - INFO - Data loaded successfully from ../Dataset/Customer Churn Data/20250314/JSON/4c1a1c19-87c4-4f22-9c4e-8ae9df496118.json.
+2025-03-14 21:00:28,082 - INFO - Checking for missing values
+2025-03-14 21:00:28,085 - INFO - Checking for duplicates
+2025-03-14 21:00:28,089 - INFO - Validating data types
+2025-03-14 21:00:28,089 - INFO - Validating data ranges
+2025-03-14 21:00:28,167 - INFO - Data loaded successfully from ../Dataset/Customer Churn Data/20250314/CSV/ffd214e8-9bce-4e7d-bce8-73be045af5c3.csv.
+2025-03-14 21:00:28,167 - INFO - Checking for missing values
+2025-03-14 21:00:28,169 - INFO - Checking for duplicates
+2025-03-14 21:00:28,174 - INFO - Validating data types
+2025-03-14 21:00:28,174 - INFO - Validating data ranges

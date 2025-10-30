@@ -1,0 +1,14 @@
+2025-03-14 20:59:00,533 - INFO - Starting ingestion
+2025-03-14 20:59:14,393 - INFO - API ingestion successful: 2999 records ingested.
+2025-03-14 20:59:14,437 - INFO - JSON raw data saved to ../Dataset/Raw Data/4c1a1c19-87c4-4f22-9c4e-8ae9df496118__20250314.json
+2025-03-14 20:59:14,437 - INFO - ingestion Complete
+2025-03-14 20:59:14,437 - INFO - Starting Data Segregation
+2025-03-14 20:59:14,438 - INFO - Raw file copied from Path: ../Dataset/Raw Data/4c1a1c19-87c4-4f22-9c4e-8ae9df496118__20250314.json to Path: ../Dataset/Customer Churn Data/20250314/JSON/4c1a1c19-87c4-4f22-9c4e-8ae9df496118.json
+2025-03-14 20:59:14,438 - INFO - Data Segregation complete
+2025-03-14 20:59:14,439 - INFO - Starting ingestion
+2025-03-14 20:59:14,448 - INFO - CSV ingestion successful: 4054 records ingested.
+2025-03-14 20:59:14,460 - INFO - CSV raw data saved to ../Dataset/Raw Data/ffd214e8-9bce-4e7d-bce8-73be045af5c3__20250314.csv
+2025-03-14 20:59:14,460 - INFO - ingestion Complete
+2025-03-14 20:59:14,460 - INFO - Starting Data Segregation
+2025-03-14 20:59:14,460 - INFO - Raw file copied from Path: ../Dataset/Raw Data/ffd214e8-9bce-4e7d-bce8-73be045af5c3__20250314.csv to Path: ../Dataset/Customer Churn Data/20250314/CSV/ffd214e8-9bce-4e7d-bce8-73be045af5c3.csv
+2025-03-14 20:59:14,460 - INFO - Data Segregation complete

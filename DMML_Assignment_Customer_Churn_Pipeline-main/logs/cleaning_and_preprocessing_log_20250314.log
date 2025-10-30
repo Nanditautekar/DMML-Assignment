@@ -1,0 +1,22 @@
+2025-03-14 21:01:33,640 - INFO - Loading data from ../Dataset/Customer Churn Data/20250314/JSON/4c1a1c19-87c4-4f22-9c4e-8ae9df496118.json
+2025-03-14 21:01:33,650 - INFO - Loading data from ../Dataset/Customer Churn Data/20250314/CSV/ffd214e8-9bce-4e7d-bce8-73be045af5c3.csv
+2025-03-14 21:01:33,689 - INFO - Duplicates removed: 10 duplicate rows dropped.
+2025-03-14 21:01:33,700 - INFO - Data cleaning completed.
+2025-03-14 21:01:33,702 - INFO - Irrelevant fields ['customerID'] removed.
+2025-03-14 21:01:33,708 - INFO - Duplicates removed in clean_data: 0 duplicate rows dropped.
+2025-03-14 21:01:33,708 - INFO - Mapping for column 'InternetService': {'DSL': 0, 'Fiber optic': 1, 'No': 2}
+2025-03-14 21:01:33,709 - INFO - Mapping for column 'OnlineSecurity': {'No': 0, 'No internet service': 1, 'Yes': 2}
+2025-03-14 21:01:33,709 - INFO - Mapping for column 'gender': {'Female': 0, 'Male': 1}
+2025-03-14 21:01:33,709 - INFO - Mapping for column 'OnlineBackup': {'No': 0, 'No internet service': 1, 'Yes': 2}
+2025-03-14 21:01:33,709 - INFO - Mapping for column 'DeviceProtection': {'No': 0, 'No internet service': 1, 'Yes': 2}
+2025-03-14 21:01:33,710 - INFO - Mapping for column 'TechSupport': {'No': 0, 'No internet service': 1, 'Yes': 2}
+2025-03-14 21:01:33,710 - INFO - Mapping for column 'StreamingTV': {'No': 0, 'No internet service': 1, 'Yes': 2}
+2025-03-14 21:01:33,710 - INFO - Mapping for column 'StreamingMovies': {'No': 0, 'No internet service': 1, 'Yes': 2}
+2025-03-14 21:01:33,710 - INFO - Mapping for column 'Contract': {'Month-to-month': 0, 'One year': 1, 'Two year': 2}
+2025-03-14 21:01:33,711 - INFO - Mapping for column 'PaymentMethod': {'Bank transfer (automatic)': 0, 'Credit card (automatic)': 1, 'Electronic check': 2, 'Mailed check': 3}
+2025-03-14 21:01:33,711 - INFO - Mapping for column 'Partner': {'No': 0, 'Yes': 1}
+2025-03-14 21:01:33,711 - INFO - Mapping for column 'Dependents': {'No': 0, 'Yes': 1}
+2025-03-14 21:01:33,711 - INFO - Mapping for column 'PhoneService': {'No': 0, 'Yes': 1}
+2025-03-14 21:01:33,712 - INFO - Mapping for column 'PaperlessBilling': {'No': 0, 'Yes': 1}
+2025-03-14 21:01:33,712 - INFO - Mapping for column 'Churn': {'No': 0, 'Yes': 1}
+2025-03-14 21:01:33,712 - INFO - Mapping for column 'MultipleLines': {'No': 0, 'No phone service': 1, 'Yes': 2}

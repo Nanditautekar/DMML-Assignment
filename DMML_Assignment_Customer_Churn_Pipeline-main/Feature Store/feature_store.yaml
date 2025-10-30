@@ -1,0 +1,3 @@
+project: customer_churn_features
+registry: data/feature_registry.db
+provider: local
